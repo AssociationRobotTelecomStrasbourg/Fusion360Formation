@@ -1,38 +1,70 @@
 # Formation Fusion 360
 
 ## Informations à rajouter
+
 - [ ] Liens pour apprendre Fusion 360 (vidéos youtube)
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 
 ## Déroulement
+
 - Lire les instructions
 - Regarder les vidéos youtube
 - Regarder chaque étape pour modéliser l'objet sur Fusion 360
 
 ## Installation de Fusion 360
-- S'inscrire à la licence éducative de Fusion 360 sur le lien : https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1&filters=individual&search=FUSION
+
+**Cliquez sur le lien qui suit puis suivez les différentes étapes pour vous inscrire à la licence éducative de Fusion 360**
+
+https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1&filters=individual&search=FUSION
+
 ### Etape 1
-![etape1](ressources/etape1.png)
-###Etape 2
-![etape2](ressources/etape2.png)
+
+![etape1](ressources/etape1.PNG)
+
+### Etape 2
+
+Cliquez sur le bouton `CREATE ACCOUNT`
+
+![etape2](ressources/etape2.PNG)
+
 ### Etape 3
-![etape3](ressources/etape3.png)
+
+Rentrez les informations comme ci-dessous
+
+![etape3](ressources/etape3.PNG)
+
 ### Etape 4
-![etape4](ressources/etape4.png)
+
+Lors de la création de votre compte, rentrez vos VRAIES informations sur votre identité et **<span style="color:red">rentrez votre adresse Unistra</span>**
+
 ### Etape 5
-![etape5](ressources/etape5.png)
+
+Completez comme ci-dessous en mettant votre année d'arrivée à TPS et l'année à laquelle vous quitterez TPS (si tout va bien)
+
+![etape5](ressources/etape5.PNG)
+
 ### Etape 6
-![etape6](ressources/etape6.png)
-- Télécharger Fusion 360
+
+Recliquez sur le lien de la première étape
+
+![etape6](ressources/etape6.PNG)
+
+### Etape 7
+
+Déposez votre justificatif pour obtenir la licence éducative de Fusion 360, il ne vous reste plus qu'à le télécharger
+
+![etape7](ressources/etape7.PNG)
+
+https://www.youtube.com/watch?v=A5bc9c3S12g
