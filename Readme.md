@@ -31,6 +31,8 @@ https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=1
 
 ### Etape 1
 
+Descendez en bas de la page et cliquez sur le lien `Get started` pour Fusion 360
+
 ![etape1](ressources/etape1.PNG)
 
 ### Etape 2
@@ -47,7 +49,9 @@ Rentrez les informations comme ci-dessous
 
 ### Etape 4
 
-Lors de la création de votre compte, rentrez vos VRAIES informations sur votre identité et **<span style="color:red">rentrez votre adresse Unistra</span>**
+Lors de la création de votre compte, rentrez vos VRAIES informations sur votre identité et **rentrez votre adresse Unistra**
+
+![etape4](ressources/etape4.PNG)
 
 ### Etape 5
 
@@ -57,7 +61,7 @@ Completez comme ci-dessous en mettant votre année d'arrivée à TPS et l'année
 
 ### Etape 6
 
-Recliquez sur le lien de la première étape
+Cliquez à nouveau sur le lien de la première étape
 
 ![etape6](ressources/etape6.PNG)
 
