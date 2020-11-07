@@ -83,15 +83,15 @@ Votre page de gauche doit ressembler à ça (sans le TPS tout en haut)
 
 ![deb3](ressources/deb3.PNG)
 
-Bien, maintenant que vous avez créé un projet, vous allez créer votre premier objet grâce à plusieurs vidéos et à ce tutoriel, mais avant ça, apprenons à nous déplacer dans Fusion 360
+Bien, maintenant que vous avez créé un projet, vous allez créer votre premier objet grâce à plusieures vidéos et grâce à ce tutoriel, mais avant ça, apprenons à nous déplacer dans Fusion 360
 
 ## Quelques commandes de base
 
-Sur la grille à droite de l'écran se trouve l'espace de travail dans lequel on construit des objets. On peut se déplacer de plusieurs façons dans cet espace :
+Sur la grille à droite de l'écran se trouve l'espace de travail dans lequel on construit des objets. On peut s'y déplacer de plusieurs façons :
 
-- En maintenant `la molette de la souris` avec le curseur dans la zone de travail et en déplaçant la souris, on effectue une translation dans la zone de travail
+- En maintenant appuyé `la molette de la souris` avec le curseur dans la zone de travail et en déplaçant la souris, on effectue une translation dans la zone de travail
 
-- En maintenant `shift` et en maintenant `la molette de la souris` avec le curseur dans la zone de travail et en déplaçant la souris, on effectue une rotation autour de l'emplacement du curseur au début de la manipulation
+- En maintenant appuyé `shift` et en maintenant appuyé `la molette de la souris` avec le curseur dans la zone de travail et en déplaçant la souris, on effectue une rotation autour de l'emplacement du curseur au début de la manipulation
 
 - En utilisant `la molette de la souris`, on peut zoomer et dézoomer (le zoom se fait en faisant rouler la molette vers l'arrière et le dézoom vers l'avant)
 
@@ -105,4 +105,10 @@ https://www.youtube.com/watch?v=A5bc9c3S12g
 
 ### Etape 1
 
-Faites un clique droit sur `Non enregistré` en haut à gauche de votre espace de travail, puis sur `nouveau composant`
+Faites un clique droit sur `(Non enregistré)` en haut à gauche de votre espace de travail, puis cliquez sur `Nouveau composant`, et renommez l'objet créé en `Box`
+
+Effectuez à nouveau cette action en renommant l'objet créé en `Lid`
+
+### Etape 2 : travail sur le composant `Box`
+
+Travaillons sur le composant `Box`. Pour cela, cliquez sur le petit œil à droite du composant `Box`
